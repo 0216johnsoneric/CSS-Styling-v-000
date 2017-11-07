@@ -3,5 +3,6 @@ Selector {
 property: value;
 } */
 /*Type selector*/
-p {/*select all p */}
-font-size 16px
+p {/*select all p */
+font-size: 16px;
+}
